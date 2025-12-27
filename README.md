@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AryaXDG/AryaXDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Arya;I+break+loops;I+fix+bugs;Linux+Enthusiast" alt="Typing SVG" />
+  </a>
 
-Here are some ideas to get you started:
+  <p>
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,python,git,docker,aws,md&theme=dark" />
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+  <img src="https://github.com/AryaXDG/AryaXDG/blob/main/github-metrics.svg" alt="3D Metrics" width="800">
+
+  ---
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AryaXDG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaXDG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+  </div>
+
+</div>
