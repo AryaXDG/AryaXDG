@@ -4,31 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Arya;Backend+%26+Low-Level;C+%2F+C%2B%2B+%2F+Linux;Debian+Daily+Driver" alt="Typing SVG" />
   </a>
 
-  <div align="left">
-    <pre>
-#include &lt;stdio.h&gt;
-
-struct Developer {
-    char *name;
-    char *role;
-    char *distro;
-    char *editors[2];
-};
-
-int main() {
-    struct Developer arya = {
-        .name = "Arya Dasgupta",
-        .role = "Backend & Low-Level Engineer",
-        .distro = "Debian GNU/Linux",
-        .editors = {"Vim", "VS Code"}
-    };
-
-    printf("Compiling potential...\n");
-    return 0;
-}
-    </pre>
-  </div>
-
   <p>
     <img src="https://skillicons.dev/icons?i=c,cpp,python,js,bash,linux,debian,vim,vscode,git&theme=dark" />
   </p>
