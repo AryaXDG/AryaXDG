@@ -1,6 +1,8 @@
-# Arya | Backend & Low-Level Engineer
+# Arya Dasgupta
 
-I am a software engineer specializing in backend systems and low-level programming. My daily driver is Debian Linux, and I am focused on building robust, efficient, and scalable infrastructure. 
+I am an IT undergraduate at Asansol Engineering College with a background in full-stack JavaScript systems and backend devalopment!
+
+Contact: AryaDasgupta2004@gmail.com
 
 ## Core Technologies
 
