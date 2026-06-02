@@ -1,6 +1,6 @@
 # Arya Dasgupta
 
-I am an IT undergraduate at Asansol Engineering College with a background in full-stack JavaScript systems and backend devalopment!
+I am an IT undergraduate at Asansol Engineering College with a background in full-stack JavaScript systems and backend development!
 
 Contact: AryaDasgupta2004@gmail.com
 
