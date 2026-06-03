@@ -16,11 +16,6 @@ Contact: AryaDasgupta2004@gmail.com
   <img src="https://github.com/AryaXDG/AryaXDG/blob/main/github-metrics.svg" alt="Detailed GitHub Metrics" width="800" />
 </p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryaXDG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaXDG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages Graph" />
-</div>
-
 ---
 
 <p align="left">
